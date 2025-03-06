@@ -85,3 +85,5 @@ ipython_config.py
 .Pipfile.lock
 
 .idea/
+.env/
+.env
